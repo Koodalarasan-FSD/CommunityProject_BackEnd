@@ -1,2 +1,3 @@
 # CommunityProject_BackEnd
-It's First Project combines elements of E-commerce and Community features, implemented using Flask (Python), MySQL, HTML, CSS, JavaScript, and the Bootstrap 5 Framework.... The project includes dedicated Admin and Vendor Panels, along with various web pages enabling users to showcase their personal and business profiles. Additionally, users can leverage the platform to sell their homemade products.
+  - It's First Project combines elements of E-commerce and Community features, implemented using Flask (Python), MySQL, HTML, CSS, JavaScript, and the Bootstrap 5 Framework....
+  - The project includes dedicated Admin and Vendor Panels, along with various web pages enabling users to showcase their personal and business profiles. Additionally, users can leverage the platform to sell their homemade products.
